@@ -1,2 +1,3 @@
-# animator-helper-components
-Sample project with animator components based on state machine behaviours
+`PROJECT NAME:` Animator Helper Components
+
+<p>Sample project with animator components based on state machine behaviours</p>
